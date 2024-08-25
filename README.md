@@ -1,4 +1,4 @@
-# KTJ-Datathon
+# Futuristic-Car-Prototype
 This Repo contains our code and results for Kshitij'22 Datathon Event.
 
 We used StudioGAN 0.2.0 release to train the SNGAN model.  
